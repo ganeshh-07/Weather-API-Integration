@@ -38,6 +38,7 @@ Styling:CSS / Bootstrap
 Step 1: Clone the Repository
 
 git clone https://github.com/your-username/weather-app.git
+
 cd weather-app
 
 Step 2: Install Dependencies
